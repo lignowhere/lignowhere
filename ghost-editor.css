@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.koenig-editor__editor blockquote, .koenig-editor__editor ol, .koenig-editor__editor p, .koenig-editor__editor ul:not(.kg-action-bar):not(.kg-link-toolbar){
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
